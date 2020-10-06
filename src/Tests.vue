@@ -2,6 +2,7 @@
   {{ 'Lorem ipsum' }}
   {{ "Lorem ipsum" }}
   {{ `Lorem ipsum` }}
+  <div v-bind:foo="'bar'"/>
 </template>
 <script>
 Vue.component('some-comp', {
