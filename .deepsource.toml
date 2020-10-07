@@ -6,7 +6,7 @@ enabled = true
 
   [analyzers.meta]
   plugins = ["vue"]
-  module_system = ["es-modules"]
+  module_system = "es-modules"
   environment = [
     "nodejs",
     "browser"
