@@ -9,5 +9,6 @@ enabled = true
   module_system = "es-modules"
   environment = [
     "nodejs",
-    "browser"
+    "browser",
+    "jest"
   ]
